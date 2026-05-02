@@ -1,0 +1,6 @@
+{
+  "name": "ScriptSage",
+  "description": "An interactive movie script generator and adaptive AI recommendation chatbot with voicing capabilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
